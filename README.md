@@ -16,5 +16,5 @@
 
 - Section 01: Course introduction
 - Section 02: Programming concepts
-- Section 03: Java introduction
+- Section 03: [Java introduction](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section03)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
