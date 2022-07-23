@@ -17,4 +17,7 @@
 - Section 01: Course introduction
 - Section 02: Programming concepts
 - Section 03: [Java introduction](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section03)
+- Section 04: [Sequencial structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section04)
+  - Task: [Sequencial structure (input, data processing and output)](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section04/tasks)
+- Section 05:
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
