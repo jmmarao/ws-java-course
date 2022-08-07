@@ -17,10 +17,10 @@
 
 - Section 01: Course introduction
 - Section 02: Programming concepts
-- Section 03: [Java introduction](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section03)
-- Section 04: [Sequencial structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section04)
-  - Tasks: [Sequencial structure (input, data processing and output)](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section04/tasks)
-- Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section05)
-  - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section05/tasks)
+- Section 03: [Java introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section03)
+- Section 04: [Sequencial structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section04)
+  - Tasks: [Sequencial structure (input, data processing and output)](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section04/tasks)
+- Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05)
+  - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/tasks)
 - Section 06: Loops
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
