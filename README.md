@@ -1,5 +1,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/jmmarao/ws-java-course)
 ![GitHub top language](https://img.shields.io/github/languages/top/jmmarao/ws-java-course)
+![GitHub](https://img.shields.io/github/license/jmmarao/ws-java-course)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jmmarao/ws-java-course)
 
 # :mortar_board: Java and Object-Oriented Programming Course
