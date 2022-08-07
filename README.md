@@ -21,4 +21,5 @@
   - Tasks: [Sequencial structure (input, data processing and output)](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section04/tasks)
 - Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section05)
   - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/target/classes/section05/tasks)
+- Section 06: Loops
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
