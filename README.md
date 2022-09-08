@@ -23,4 +23,5 @@
 - Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05)
   - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/tasks)
 - Section 06: Loops
+- Section 07:
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
