@@ -23,5 +23,5 @@
 - Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05)
   - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/tasks)
 - Section 06: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06)
-- Section 07: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/tasks)
+  - Tasks: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/tasks)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
