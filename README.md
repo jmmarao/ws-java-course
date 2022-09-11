@@ -26,10 +26,10 @@
   - Tasks: [While and for structures](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/tasks)
 - Section 07: [Basic topics about Java](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section07)
   - Restrictions and conventions
-  - Bitwise
-  - String functions
+  - [Bitwise](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/Bitwise.java)
+  - [String functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/StringFunctions.java)
   - Comments
-  - Functions
+  - [Functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/FunctionExample1.java)
 - Section 08: [Object oriented programming introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08)
   - Task 1: [Class introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task1)
   - Task 2: [Static method introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task2)
