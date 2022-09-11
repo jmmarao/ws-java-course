@@ -18,22 +18,22 @@
 - Section 01: Course introduction
 - Section 02: Programming concepts
 - Section 03: [Java introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section03)
-- Section 04: [Sequencial structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section04)
+- Section 04: [Sequencial structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section04/examples)
   - Tasks: [Input, data processing and output](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section04/tasks)
-- Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05)
+- Section 05: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/examples)
   - Tasks: [If-else structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/tasks)
-- Section 06: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06)
+- Section 06: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/examples)
   - Tasks: [While and for structures](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/tasks)
-- Section 07: [Basic topics about Java](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section07)
+- Section 07: [Basic topics about Java](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section07/examples)
   - Restrictions and conventions
-  - [Bitwise](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/Bitwise.java)
-  - [String functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/StringFunctions.java)
+  - [Bitwise](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/examples/Bitwise.java)
+  - [String functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/examples/StringFunctions.java)
   - Comments
-  - [Functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/FunctionExample1.java)
-- Section 08: [Object oriented programming introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08)
+  - [Functions](https://github.com/jmmarao/ws-java-course/blob/main/src/main/java/section07/examples/FunctionExample1.java)
+- Section 08: [Object oriented programming introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/examples)
   - Task 1: [Class introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task1)
   - Task 2: [Static method introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task2)
-- Section 09: [Constructors, this, overload, encapsulation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09)
+- Section 09: [Constructors, this, overload, encapsulation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09/examples)
   - Task: [BankAccount example](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09/task)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
