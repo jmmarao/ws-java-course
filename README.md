@@ -24,4 +24,11 @@
   - Tasks: [Conditional structure](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section05/tasks)
 - Section 06: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06)
   - Tasks: [Loops](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section06/tasks)
+- Section 07: [Basic topics about Java](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section07)
+  - Restrictions and conventions
+  - Bitwise
+  - String functions
+  - Comments
+  - Functions
+
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
