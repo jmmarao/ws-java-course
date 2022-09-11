@@ -33,5 +33,7 @@
 - Section 08: [Object oriented programming introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08)
   - Task 1: [Class introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task1)
   - Task 2: [Static method introduction](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks/task2)
+- Section 09: [Constructors, this, overload, encapsulation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09)
+  - Task: [Constructors, this, overload, encapsulation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section08/tasks)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
