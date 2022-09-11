@@ -1,4 +1,4 @@
-package section08.product;
+package section09.product;
 
 import java.util.Locale;
 import java.util.Scanner;
@@ -7,23 +7,24 @@ public class ProductApplication {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
-        Product product = new Product();
 
         System.out.println("Enter product data:");
 
         System.out.print("Name: ");
-        product.name = scanner.next();
+        String productName = scanner.next();
 
         System.out.print("Price: $");
-        product.price = scanner.nextDouble();
+        double productPrice = scanner.nextDouble();
 
         System.out.print("Quantity in stock: ");
-        product.quantity = scanner.nextInt();
+        int productQuantity = scanner.nextInt();
+
+        Product product = new Product(productName, productPrice, productQuantity);
 
         System.out.println("\nProduct data: " + product);
 
         System.out.print("Enter the number of products to be added in stock: ");
-        int productQuantity = scanner.nextInt();
+        productQuantity = scanner.nextInt();
         product.addProducts(productQuantity);
         System.out.println("\nUpdated data: " + product);
 
