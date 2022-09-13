@@ -36,8 +36,8 @@
 - Section 09: [Constructors, this, overload, encapsulation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09/examples)
   - Task: [BankAccount example](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section09/task)
 - Section 10: [Memory behavior, array, list and matrix](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/examples)
-  - Tasks 1: [Array](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/task/vector)
-  - Tasks 2: [List](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/task/list)
-  - Tasks 3: [Matrix](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/task/matrix)
+  - Tasks 1: [Array](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/vector)
+  - Tasks 2: [List](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/list)
+  - Tasks 3: [Matrix](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/matrix)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
