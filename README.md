@@ -39,7 +39,7 @@
   - Tasks 1: [Array](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/vector)
   - Tasks 2: [List](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/list)
   - Tasks 3: [Matrix](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section10/tasks/matrix)
-- Section 11: [Date time](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section11/)
+- Section 11: [Date time](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section11/examples)
   - [Local date](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section11/examples/localdate)
   - [Calendar](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section11/examples/calendar)
 - Section 12: Git and GitHub
