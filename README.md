@@ -44,6 +44,13 @@
   - [Calendar](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section11/examples/calendar)
 - Section 12: Git and GitHub
 - Section 13: [Enum](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section13/examples)
-  - Task: [Order item](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section13/task) 
-
+  - Task: [Order item](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section13/task)
+- Section 14: [Inheritance and polymorphism](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples)
+  - [Casting](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/casting)
+  - [Inheritance](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/inheritance)
+  - [Override](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/override)
+  - [Abstract class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/abstractcshape)
+  - Task 1: [Employeee](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/employee)
+  - Task 2: [Product](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/product)
+  - Task 3: [Tax payer](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/taxpayer)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
