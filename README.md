@@ -49,7 +49,7 @@
   - [Casting](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/casting)
   - [Inheritance](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/inheritance)
   - [Override](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/override)
-  - [Abstract class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/abstractcshape)
+  - [Abstract class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/examples/abstractshape)
   - Task 1: [Employeee](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/employee)
   - Task 2: [Product](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/product)
   - Task 3: [Tax payer](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/taxpayer)
