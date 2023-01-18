@@ -53,4 +53,7 @@
   - Task 1: [Employeee](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/employee)
   - Task 2: [Product](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/product)
   - Task 3: [Tax payer](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section14/tasks/taxpayer)
+- Section 15: [Handle excpection](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/examples)
+  - Task 1: [Hotel reservation] (https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/tasks/hotel)
+  - Task 2: [Account] (https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/tasks/account)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
