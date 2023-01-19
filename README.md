@@ -56,4 +56,7 @@
 - Section 15: [Handle excpection](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/examples)
   - Task 1: [Hotel reservation](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/tasks/hotel)
   - Task 2: [Account](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section15/tasks/account)
+- Section 16: Chess game system
+- Section 17: [Files and folders](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section17/examples)
+  - Task: [Summary CSV](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section17/task)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
