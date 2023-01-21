@@ -59,4 +59,8 @@
 - Section 16: Chess game system
 - Section 17: [Files and folders](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section17/examples)
   - Task: [Summary CSV](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section17/task)
+- Section 18: [Interfaces](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/examples)
+  - Task 1: [Car rental - without class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/carrental/firstsolution)
+  - Task 2: [Car rental - with class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/carrental/secondsolution)
+  - Task 2: [Contract](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/contract)
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
