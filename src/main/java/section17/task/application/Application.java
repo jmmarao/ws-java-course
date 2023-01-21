@@ -1,6 +1,6 @@
 package section17.task.application;
 
-import section17.task.entities.Product;
+import section17.task.model.entities.Product;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package section17.task.entities;
+package section17.task.model.entities;
 
 public class Product {
     private String name;
