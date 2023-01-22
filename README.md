@@ -66,6 +66,6 @@
 - Section 19: [Generics, Set and Map](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/examples)
   - Task 1: [Log](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/log)
   - Task 2: [Enrollment](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/enrollment)
-  - Task 3: [Enrollment](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/election)
+  - Task 3: [Election](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/election)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
