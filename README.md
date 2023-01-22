@@ -62,5 +62,10 @@
 - Section 18: [Interfaces](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/examples)
   - Task 1: [Car rental - without class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/carrental/firstsolution)
   - Task 2: [Car rental - with class](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/carrental/secondsolution)
-  - Task 2: [Contract](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/contract)
+  - Task 3: [Contract](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section18/tasks/contract)
+- Section 19: [Generics, Set and Map](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/examples)
+  - Task 1: [Log](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/log)
+  - Task 2: [Enrollment](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/enrollment)
+  - Task 3: [Enrollment](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section19/tasks/election)
+
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
