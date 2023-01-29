@@ -77,5 +77,6 @@
   - Task 3: [Employee](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section20/tasks/employee)
 - Section 21: [Java Database Connectivity - JDBC](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section21/examples)
   - [Department Project](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section21/task)
+- Section 22: JPA object relational mapping introduction
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
