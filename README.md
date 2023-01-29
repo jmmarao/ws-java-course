@@ -78,5 +78,6 @@
 - Section 21: [Java Database Connectivity - JDBC](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section21/examples)
   - [Department Project](https://github.com/jmmarao/ws-java-course/tree/main/src/main/java/section21/task)
 - Section 22: JPA object relational mapping introduction
+- Section 23: [Workshop Springboot](https://github.com/jmmarao/workshop-springboot3-jpa)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
