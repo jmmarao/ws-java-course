@@ -80,5 +80,6 @@
 - Section 22: JPA object relational mapping introduction
 - Section 23: [Workshop Springboot - JPA](https://github.com/jmmarao/workshop-springboot3-jpa)
 - Section 24: [Workshop Springboot - Mongodb](https://github.com/jmmarao/workshop-springboot3-mongodb)
+- Section 25: [Workshop JavaFX - JDBC](https://github.com/jmmarao/workshop-javafx-jdbc)
 
 ### :link: [Udemy Course Information Access](https://www.udemy.com/)
